@@ -1,5 +1,7 @@
+config.py
+
 # Large CSV Files
-Data/ratings.csv
+Resources/ratings.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
